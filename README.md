@@ -11,6 +11,7 @@ It is fully **responsive** 📱, interactive ⚡, and visually appealing ✨ acr
 ## 🚀 Live Demo 🚀
 
 - [View Live Demo](#) 🔗
+- 
   https://portfolio1-mannat-walia-e52d14.netlify.app/
 
 ![Portfolio Screenshot](Screenshot%202026-02-11%20223616.png)
